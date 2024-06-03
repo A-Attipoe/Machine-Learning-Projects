@@ -20,7 +20,7 @@ In this project I stepped into the role of a Data Scientist at a leading Health 
  * Potassium content ratio in the soil
  * pH value of the soil
 
-Using supervised machine learning, I dived into the dataset to help a farmer decide the best feature for accurately predicting the crop
+Using supervised machine learning, I dived into the dataset to help the farmer decide the best feature for accurately predicting the crop to plant on his field
  
 
 
