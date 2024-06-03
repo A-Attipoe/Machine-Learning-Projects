@@ -1,4 +1,4 @@
-![image](https://github.com/A-Attipoe/Machine-Learning-Projects/assets/166331382/f97289df-bda6-484e-a56e-56277b974eda)# Machine-Learning-Projects
+# Machine-Learning-Projects
 This is a repository of some of my machine learning projects
 ## Predicting Insurance Charges
 CSV files used : insurance.csv, validation_dataset.csv.
@@ -14,11 +14,11 @@ In this project I stepped into the role of a Data Scientist at a leading Health 
  ## Predictive Modeling for Agriculture
  CSV files used : soil_measures.csv
  ### Project Description
- A farmer reached out to me seeking help to select the best crop for his field. Due to budget constraints, the farmer explained that he could only afford to measure one out of the four essential soil measures;
-• Nitrogen content ratio in the soil
-• Phosphorous content ratio in the soil
-• Potassium content ratio in the soil
-• pH value of the soil
+ A farmer reached out to me seeking help to select the best crop for his field. Due to budget constraints, the farmer explained that he could only afford to measure one out of the four essential soil measures; 
+ * Nitrogen content ratio in the soil
+ * Phosphorous content ratio in the soil
+ * Potassium content ratio in the soil
+ * pH value of the soil
 Using supervised machine learning, I dived into the dataset to help a farmer decide the best feature for accurately predicting the crop
  
 
