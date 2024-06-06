@@ -21,6 +21,9 @@ In this project I stepped into the role of a Data Scientist at a leading Health 
  * pH value of the soil
 
 Using supervised machine learning, I dived into the dataset to help the farmer decide the best feature for accurately predicting the crop to plant on his field
- 
 
+## Identifying Penguin Species in Antarctica
+CSV files used : penguins.csv
+### Project Description
+In this project, I support a research team with penguin data collection in Antarctica, where species were not recorded. My task was to use data science skills to identify groups within the dataset, knowing that at least three native species—Adelie, Chinstrap, and Gentoo—exist in the region.
 
